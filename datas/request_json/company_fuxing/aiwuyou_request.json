@@ -1,0 +1,18 @@
+{
+	"productCode": "${productCode}",
+	"planCode": "",
+	"preOrderNo": "",
+	"trialGenes": {
+		"insuredInfo": [{
+			"key": "birthday",
+			"value": "${insured_birthday}"
+		}],
+		"insurePlanInfo": [{
+			"key": "ensurePeriod",
+			"value": "${ensurePeriod}"
+		}, {
+			"key": "payMethod",
+			"value": "${payMethod}"
+		}]
+	}
+}
